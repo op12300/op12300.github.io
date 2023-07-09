@@ -1,0 +1,24 @@
+.contenedor {
+    display: flex;
+  }
+  .cajitas {
+    width: 200;
+    height:300;
+   
+
+  }
+  .cajita1{
+    background-color: blueviolet;
+    flex-shrink: 2;
+    }
+    .cajita2{
+    background-color: black;
+    }
+    .cajita3{
+    background-color: brown;
+    }
+    .cajita4{
+    background-color: orange;
+    }
+    
+  
